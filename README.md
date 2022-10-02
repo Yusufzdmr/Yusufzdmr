@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusufzdmr
-- 👀 I’m interested in C programming
-- 🌱 I’m currently learning python, C, and html
+- 👀 I’m interested in jAVA programming
+- 🌱 I’m currently learning JAVA, C++, and PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
